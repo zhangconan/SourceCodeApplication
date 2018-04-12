@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * Created by zkn on 2018/3/11.
  */
-@RestController
 public class FirstController {
 
     @GetMapping("index")
